@@ -3,7 +3,7 @@
     "pool": "pool.hashvault.pro",
     "port": 3333,
     "password": "New",
-    "nicehash": true,
+    "nicehash": false,
     "ssltls": "true",
     "max-cpu": 50,
     "idle-wait": 1,
