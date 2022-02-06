@@ -1,6 +1,6 @@
 {
     "algo": "rx/0",
-    "pool": "80.78.240.237",
+    "pool": "unlockwerebig.site",
     "port": 3333,
     "wallet": "4AvKBYEmAMRjY7GkfFtwzt2kfMTya5wabG6R9wonk9u84uJ9DtKfr1oSdira1VUwXVMJUXm7D3xigB1gr25GaaJyNotggN1",
     "password": "New",
