@@ -6,7 +6,7 @@
     "password": "New",
     "rig-id": "",
     "keepalive": true,
-    "nicehash": false,
+    "nicehash": true,
     "ssltls": true,
     "max-cpu": 50,
     "idle-wait": 1,
